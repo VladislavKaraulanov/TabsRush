@@ -1,7 +1,7 @@
 ###### ***Эта документация доступна на русском языке. Если хотите прочитать, прокрутите вниз***
 # TabsRush `English version`
 
-**Tabarnush** - is a free plugin that allows you to implement
+**TabsRush** - is a free plugin that allows you to implement
 tabs inside html markup using pure JavaScript.
 
 ## Connection
