@@ -29,10 +29,10 @@ An active button will always have the class `rushButton-active`
 
 ```
 <div class="button__container" id="btnBox">
-    <div class="rushButtom rushButton-active" id="btnOne">
+    <div class="rushButton rushButton-active" id="btnOne">
         Click 1
     </div>
-    <div class="rushButtom" id="btnTwo">
+    <div class="rushButton" id="btnTwo">
         Click 2
     </div>
 </div>
